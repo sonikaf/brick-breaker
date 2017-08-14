@@ -2,6 +2,7 @@ Read Me
 Author: Sonika Finch
 
 Brick Breaker
+Developed with C run with VisualBoyAdvance emulator for Nintendo Gameboy Advance
 
 -Open game
 -Directed to Welcome Screen
